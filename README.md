@@ -1,6 +1,3 @@
-### Hi there 👋
-
-## My name is Bruno.
 
 - 🔭 I’m a software analyst at Hyundai AutoEver. 
 - 👯 I’m looking to collaborate on applied cryptography and DevOps projects.
