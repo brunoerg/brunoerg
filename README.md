@@ -1,5 +1,1 @@
-
-- 🔭 I’m a software analyst at Hyundai AutoEver. 
-- 👯 I’m looking to collaborate on applied cryptography and DevOps projects.
-- 💬 Ask me about Software Development, Bitcoin, Applied Cryptography and DevOps.
-- 📫 How to reach me: @brrrunog (Twitter)
+[![brunoerg's github stats](https://github-readme-stats.vercel.app/api?username=brunoerg&include_all_commits=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/brunoerg)
